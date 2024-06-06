@@ -1,5 +1,4 @@
 const router = require('express').Router();
-const { Traveller } = require('../../../../../CONN-VIRT-FSF-PT-01-2024-U-LOLC/13-ORM/01-Activities/28-Stu_Mini-Project/Develop/models');
 const { Category, Product } = require('../../models');
 
 // The `/api/categories` endpoint
